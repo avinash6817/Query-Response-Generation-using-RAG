@@ -76,7 +76,14 @@ Please make sure to update tests as appropriate.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-- Special thanks to the developers of the transformers and faiss libraries.
+- Special thanks to the Research paper of the Retrieval-Augmented Generation for
+ Knowledge-Intensive NLP Tasks - Patrick Lewis , Ethan Perez ,
+ arXiv:2005.11401v4  [cs.CL]  12 Apr 2021
+ Aleksandra Piktus , Fabio Petroni , Vladimir Karpukhin , Naman Goyal , Heinrich Küttler ,
+ Mike Lewis , Wen-tau Yih , Tim Rocktäschel , Sebastian Riedel , Douwe Kiela
+ Facebook AI Research; University College London; New York University;
+ plewis@fb.com
+ 
 - Inspired by research from Facebook AI and other contributors to the field of natural language processing.
 
 ---
